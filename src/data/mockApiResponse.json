@@ -1,0 +1,134 @@
+{
+  "matches": [
+    {
+      "id": 600001,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-24T19:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": { "name": "Seattle Sounders" },
+      "awayTeam": { "name": "PSG" },
+      "score": { "fullTime": { "home": 0, "away": 2 } }
+    },
+    {
+      "id": 600002,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-24T19:00:00Z",
+      "status": "FINISHED",
+      "homeTeam": { "name": "Atlético Madrid" },
+      "awayTeam": { "name": "Botafogo" },
+      "score": { "fullTime": { "home": 1, "away": 0 } }
+    },
+    {
+      "id": 600003,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-24T22:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": { "name": "Porto" },
+      "awayTeam": { "name": "Al Ahly" }
+    },
+    {
+      "id": 600004,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-24T22:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": { "name": "Inter Miami" },
+      "awayTeam": { "name": "Palmeiras" }
+    },
+    {
+      "id": 600005,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-25T16:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": { "name": "Auckland City" },
+      "awayTeam": { "name": "Boca Juniors" }
+    },
+    {
+      "id": 600006,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-25T16:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": { "name": "Benfica" },
+      "awayTeam": { "name": "Bayern" }
+    },
+    {
+      "id": 600007,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-25T22:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": { "name": "Espérance" },
+      "awayTeam": { "name": "Chelsea" }
+    },
+    {
+      "id": 600008,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-25T22:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": { "name": "LAFC" },
+      "awayTeam": { "name": "Flamengo" }
+    },
+    {
+      "id": 600009,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-25T16:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": { "name": "Borussia" },
+      "awayTeam": { "name": "Ulsan Hyundai" }
+    },
+    {
+      "id": 600010,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-25T16:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": { "name": "Sundowns" },
+      "awayTeam": { "name": "Fluminense" }
+    },
+    {
+      "id": 600011,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-25T22:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": { "name": "Urawa Reds" },
+      "awayTeam": { "name": "Monterrey" }
+    },
+    {
+      "id": 600012,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-25T22:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": { "name": "Inter" },
+      "awayTeam": { "name": "River Plate" }
+    },
+    {
+      "id": 600013,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-26T16:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": { "name": "Juventus" },
+      "awayTeam": { "name": "City" }
+    },
+    {
+      "id": 600014,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-26T16:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": { "name": "Wydad AC" },
+      "awayTeam": { "name": "Al Ain" }
+    },
+    {
+      "id": 600015,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-26T22:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": { "name": "Al-Hilal" },
+      "awayTeam": { "name": "Pachuca" }
+    },
+    {
+      "id": 600016,
+      "competition": { "name": "Mundial de Clubes 2025" },
+      "utcDate": "2025-06-26T22:00:00Z",
+      "status": "SCHEDULED",
+      "homeTeam": { "name": "RB Salzburg" },
+      "awayTeam": { "name": "Real Madrid" }
+    }
+  ]
+}
